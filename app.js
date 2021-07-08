@@ -590,7 +590,7 @@ If you have more questions... well...
 
 //TRY YOUR APP HERE:
 
-//class YOURNAME = new accounting(`YOURFIRSTNAME`, `YOURLASTNAME`)
+//const YOURNAME = new accounting(`YOURFIRSTNAME`, `YOURLASTNAME`)
 
 
 //EXAMPLE:
